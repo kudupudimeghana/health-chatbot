@@ -12,6 +12,5 @@ A simple Health Chatbot that answers basic health-related questions.
 ## Technologies Used
 
 - Python
-- Streamlit
 - HTML
 - CSS
